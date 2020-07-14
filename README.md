@@ -1,0 +1,2 @@
+# home-work
+这是一个基于transformer的encoder的金融新闻正负面分类的模型
